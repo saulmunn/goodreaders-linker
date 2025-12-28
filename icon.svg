@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="16" fill="#382110"/>
+  <g fill="#f4f1ea">
+    <path d="M64 20c-24.3 0-44 19.7-44 44s19.7 44 44 44 44-19.7 44-44-19.7-44-44-44zm0 80c-19.9 0-36-16.1-36-36s16.1-36 36-36 36 16.1 36 36-16.1 36-36 36z"/>
+    <path d="M64 36c-15.5 0-28 12.5-28 28s12.5 28 28 28 28-12.5 28-28-12.5-28-28-28zm0 48c-11 0-20-9-20-20s9-20 20-20 20 9 20 20-9 20-20 20z"/>
+    <circle cx="64" cy="64" r="12"/>
+    <rect x="60" y="28" width="8" height="16" rx="2"/>
+    <text x="64" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">GR</text>
+  </g>
+</svg>
