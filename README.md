@@ -2,25 +2,36 @@
 
 A simple Chrome extension that adds a "View on Goodreads" button to Amazon book pages.
 
-## Features
-
-- Adds a button to Amazon book product pages
-- Automatically detects book pages (Kindle, hardcover, paperback, audiobooks)
-- Searches Goodreads by ISBN (most accurate) or by title/author
-- Works on multiple Amazon regional sites (US, UK, Canada, Germany, France, etc.)
-
 ## Installation
 
-1. Download and unzip this extension folder
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable **Developer mode** (toggle in the top right)
-4. Click **Load unpacked**
-5. Select the `goodreads-lookup` folder
+### 1. Download and unzip this extension folder
+
+Download the files by clicking the big green "Code" button in this repo, then "Download ZIP":
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/524191b7-c114-4d71-b0be-ec03dd95c6b6" />
+
+<img width="153" alt="image" src="https://github.com/user-attachments/assets/c0735d72-17d5-4673-8483-4161a200103a" />
+
+On your file system, open the ZIP file you just downloaded, and save the folder it opens someplace safe.
+
+### 2. Load extension
+
+Open Chrome and go to `chrome://extensions/`. If it isn't already turned on, turn on Developer Mode by clicking the switch on the top-right corner:
+
+<img width="156" alt="image" src="https://github.com/user-attachments/assets/55ab5fc1-ff35-4bef-a35a-b35c83e2ac66" />
+
+Then, click "Load unpacked" on the top left:
+
+<img width="151" alt="image" src="https://github.com/user-attachments/assets/872b2c91-2450-48c6-8850-0f2c3f52fcd7" />
+
+Select the `goodreads-lookup` folder, into which you previously safely stored your files. 
+
+Done! You can try it out with Andy Weir's "The Martian" ([link](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?crid=C5L0GRB8J3T6&dib=eyJ2IjoiMSJ9.4YgDB6vZjBnG85UQ3M5xnWpLTstaNDWrl441vA_mT98myajFayl6uh9zWOzQsmcDARMEi-hsqsG0xTC9zZ8faaugs05Y3NFtVdiOxW9Of6CdFtdj98bO0WTZUHDLQhdJS6oSvW2jbzp61O_M7xtG45k-pZHISdWw9d0wIhX_ajuLOHhhJ0eXBSoTHx0jao_hGtz5ZK_X5aeNDYnySjmk-j0pHYz2a_OVgRR8NeZIaA8.biM7SGwOyJlWntogRlWqR8gtXkDhQBXO1Ho6jg4hZQA&dib_tag=se&keywords=andy+weir+the+martian&qid=1766945912&sprefix=andy+weir+the+%2Caps%2C1094&sr=8-1)).
+
 
 ## Usage
 
 1. Navigate to any book page on Amazon
-2. Look for the brown "View on Goodreads" button near the buy box
+2. Look for the brown "View on Goodreads" button above the buy box
 3. Click the button to open the Goodreads page in a new tab
 
 ## How It Works
